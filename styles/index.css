@@ -1,0 +1,16 @@
+html, body {
+  background:url('../desktop.jpg') no-repeat top center;
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+#bm {
+  position: relative;
+  width: 87%;
+}
